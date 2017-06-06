@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522390495619",
+    "firebase_url": "https://gflchat-20291.firebaseio.com",
+    "project_id": "gflchat-20291",
+    "storage_bucket": "gflchat-20291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522390495619:android:93ba451f9dde137e",
+        "android_client_info": {
+          "package_name": "com.gfl.dokhacduyet.gflchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522390495619-3pp32eh9qhmqli9j7p8te8ecbs3ggoa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gfl.dokhacduyet.gflchat",
+            "certificate_hash": "9938c4ed397ea2515a27f001f4144057320b6ca3"
+          }
+        },
+        {
+          "client_id": "522390495619-d7vkqofqdvhrr7t0ijri7ckr38c2mglt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeNBeYLhH10SurjqIYbTQxU7kE5TGPpDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522390495619-d7vkqofqdvhrr7t0ijri7ckr38c2mglt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
